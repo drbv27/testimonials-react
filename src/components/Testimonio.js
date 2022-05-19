@@ -1,5 +1,7 @@
 import React from 'react'
 
+import '../stylesheets/Testimonio.css';
+
 const Testimonio = () => {
   return (
     <div className='contenedor-testimonio'>
